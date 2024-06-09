@@ -1,0 +1,18 @@
+﻿  Card_Generator.cpp
+C:\Users\95384\Desktop\Программирование\Проект\Cardgenerator\Card_Generator.h(289,8): warning C4490: override: неправильное использование спецификатора переопределения; "CardGenerator::Card_Generator::button1_Click" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "Card_Generator.cpp")
+  C:\Users\95384\Desktop\Программирование\Проект\Cardgenerator\Card_Generator.h(289,8):
+  "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+  
+C:\Users\95384\Desktop\Программирование\Проект\Cardgenerator\Card_Generator.h(293,8): warning C4490: override: неправильное использование спецификатора переопределения; "CardGenerator::Card_Generator::button3_Click" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "Card_Generator.cpp")
+  C:\Users\95384\Desktop\Программирование\Проект\Cardgenerator\Card_Generator.h(293,8):
+  "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+  
+C:\Users\95384\Desktop\Программирование\Проект\Cardgenerator\Card_Generator.h(297,8): warning C4490: override: неправильное использование спецификатора переопределения; "CardGenerator::Card_Generator::button2_Click" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "Card_Generator.cpp")
+  C:\Users\95384\Desktop\Программирование\Проект\Cardgenerator\Card_Generator.h(297,8):
+  "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+  
+  Card_Generator.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Cardgenerator.vcxproj -> C:\Users\95384\Desktop\Программирование\Проект\Cardgenerator\x64\Debug\Cardgenerator.exe

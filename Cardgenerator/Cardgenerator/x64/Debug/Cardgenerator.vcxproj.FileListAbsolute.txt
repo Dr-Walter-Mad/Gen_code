@@ -1,0 +1,3 @@
+C:\Users\95384\Desktop\Программирование\Проект\Cardgenerator\Cardgenerator\x64\Debug\Cardgenerator.vcxproj.AssemblyReference.cache
+C:\Users\95384\Desktop\Программирование\Проект\Cardgenerator\Cardgenerator\x64\Debug\Cardgenerator.vcxproj.GenerateResource.cache
+C:\Users\95384\Desktop\Программирование\Проект\Cardgenerator\Cardgenerator\x64\Debug\Cardgenerator.Card_Generator.resources
